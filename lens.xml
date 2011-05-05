@@ -1,0 +1,27 @@
+<lens>
+    <maker>Tamron</maker>
+    <model>Tamron 18.0 - 270.0 mm f/3,5-6,3 Di II VC LD Aspherical IF MACRO</model>
+    <mount>Canon EF</mount>
+    <mount>Nikon F AF</mount>
+    <cropfactor>1.6</cropfactor> <!-- Canon 450d -->
+    <calibration>
+            <distortio1n model="ptlens" focal="142" a="0.00121" b="0.00406" c="-0.00121" />
+            <distortio1n model="ptlens" focal="50" a="0.01886" b="-0.02309" c="0.0121" />
+            <distortio2n model="ptlens" focal="119" a="0.01624" b="-0.04603" c="0.03417" />
+            <distortion model="ptlens" focal="18" a="-0.02423" b="0.05083" c="-0.06298" />
+            <distortion model="ptlens" focal="23" a="-0.02332" b="0.07246" c="-0.08093" />
+            <distortion model="ptlens" focal="35" a="-0.00099" b="0.01706" c="-0.00564" />
+            <distortion model="ptlens" focal="50" a="-0.0075" b="0.03473" c="-0.03666" />
+            <distortion model="ptlens" focal="59" a="0.00224" b="-0.00029" c="0.00791" />
+            <distortion model="ptlens" focal="77" a="0.00051" b="0.00588" c="0.00473" />
+            <distortion model="ptlens" focal="91" a="-0.00181" b="0.01597" c="-0.00996" />
+            <distortion model="ptlens" focal="100" a="-0.00251" b="0.0089" c="-0.00212" />
+            <distortion model="ptlens" focal="119" a="-0.01966" b="0.06161" c="-0.047" />
+            <distortion model="ptlens" focal="130" a="-0.02626" b="0.05789" c="-0.02842" />
+            <distortion model="ptlens" focal="142" a="0.00404" b="-0.00113" c="-0.00003" />
+            <distortion model="ptlens" focal="168" a="0.00409" b="-0.00339" c="0.00646" />
+            <distortion model="ptlens" focal="200" a="0.01186" b="-0.03763" c="0.04508" />
+            <distortion model="ptlens" focal="238" a="0.00079" b="0.00074" c="-0.0019" />
+            <distortion model="ptlens" focal="270" a="0.00647" b="-0.0151" c="0.01687" />
+    </calibration>
+</lens>
